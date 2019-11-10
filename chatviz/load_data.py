@@ -1,6 +1,7 @@
 import json
-import pandas as pd
 import xml.etree.ElementTree as ET
+
+import pandas as pd
 
 
 def prep_facebook_data(filename):

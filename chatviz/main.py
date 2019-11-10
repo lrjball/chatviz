@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from chatviz.utils import _build_color_dict
+
 from chatviz.plotting import (
     plot_donuts,
     plot_reply_times,
@@ -9,6 +9,7 @@ from chatviz.plotting import (
     plot_words,
     plot_legend,
 )
+from chatviz.utils import _build_color_dict
 
 
 def visualize_chat(
