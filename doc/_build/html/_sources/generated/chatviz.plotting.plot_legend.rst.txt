@@ -1,0 +1,6 @@
+chatviz.plotting.plot\_legend
+=============================
+
+.. currentmodule:: chatviz.plotting
+
+.. autofunction:: plot_legend

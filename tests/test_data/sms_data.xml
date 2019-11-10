@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!--File Created By SMS Backup & Restore v10.05.611 on 1/1/1970 00:00:05-->
+<smses count="3" backup_set="" backup_date="">
+  <sms date="160000" type="Customer" body="In a nutshell. And I thought to myself, 'a little fermented curd will do the trick', so, I curtailed my Walpoling activites, sallied forth, and infiltrated your place of purveyance to negotiate the vending of some cheesy comestibles!"/>
+  <sms date="180000" type="Owner" body="Come again?"/>
+  <sms date="190000" type="Customer" body="I want to buy some cheese."/>
+</smses>

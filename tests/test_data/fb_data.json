@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Customer"
+    },
+    {
+      "name": "Owner"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Customer",
+      "timestamp_ms": 0,
+      "content": "Good Morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Owner",
+      "timestamp_ms": 5000,
+      "content": "Good morning, Sir. Welcome to the National Cheese Emporium!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Customer",
+      "timestamp_ms": 8000,
+      "content": "Ah thank you my good man.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Owner",
+      "timestamp_ms": 10000,
+      "content": "What can I do for you, Sir?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Customer",
+      "timestamp_ms": 12000,
+      "content": "Well, I was, uh, sitting in the public library on Thurmon Street just now, skimming through 'Rogue Herrys' by Hugh Walpole, and I suddenly came over all peckish.",
+      "type": "Generic"
+    }
+  ]
+}

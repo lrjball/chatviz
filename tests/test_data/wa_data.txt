@@ -1,0 +1,8 @@
+01/01/1970, 00:01 - Messages to this chat and calls are now secured with end-to-end encryption. Tap for more info.
+01/01/1970, 00:01 - Owner: Peckish, sir?
+01/01/1970, 00:01 - Customer: Esuriant.
+01/01/1970, 00:01 - Owner: Eh?
+01/01/1970, 00:01 - Customer: 'Ee I were all 'ungry-like!
+01/01/1970, 00:02 - Owner: Ah, hungry!
+01/01/1970, 00:02 - Owner: <Media omitted>
+test_corrupt_line_without_any_info
