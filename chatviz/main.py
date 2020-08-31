@@ -129,7 +129,9 @@ def visualize_chat(
     if len(color_dict) > 1:
         ax_words_title.axis(False)
     ax_words = [fig.add_subplot(gswords[i]) for i in range(len(set(df["name"])))]
-    plot_words(df, ax=ax_words, colors=color_dict, top_n=top_n_words, stopwords=stopwords)
+    plot_words(
+        df, ax=ax_words, colors=color_dict, top_n=top_n_words, stopwords=stopwords
+    )
 
     gsradar = gs[3, 2:].subgridspec(1, 2)
     ax_radar_title = fig.add_subplot(gsradar[:])

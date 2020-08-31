@@ -1,4 +1,5 @@
 from chatviz import visualize_chat
+from datetime import timedelta
 import pandas as pd
 import matplotlib.pyplot as plt
 from chatviz.utils import STOPWORDS
@@ -88,3 +89,7 @@ def test_one_member():
         timeline_tick_step=1,
         timeline_color="#F6D55C",
     )
+
+
+if __name__ == "__main__":
+    test_two_members()
