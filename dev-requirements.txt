@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+ipywidgets>=7.5.1
+pytest
+pytest-cov
+pytest-black
+pytest-mpl
