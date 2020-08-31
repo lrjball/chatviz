@@ -15,6 +15,6 @@ plot_days_radar(df, colors=palette, legend=True)
 legend = plt.gca().get_legend()
 legend.set_bbox_to_anchor((1.0, 1.1))  # move the legend to the right
 
-plt.suptitle('Distribution of Message Dates', size=50)
+plt.suptitle("Distribution of Message Dates", size=50)
 plt.subplots_adjust(top=0.95, wspace=1.0, right=0.75)
 plt.show()
