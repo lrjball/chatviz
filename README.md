@@ -1,4 +1,7 @@
 # Chatviz
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+![Version: alpha](https://img.shields.io/badge/version-alpha-blue)
+[![Requirements Status](https://requires.io/github/lrjball/chatviz/requirements.svg?branch=master)](https://requires.io/github/lrjball/chatviz/requirements/?branch=master)
 
 A python library to visualize chats from various platforms.
 
