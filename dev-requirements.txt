@@ -7,3 +7,5 @@ pytest-cov
 pytest-black
 pytest-mpl
 sphinx_bootstrap_theme
+sphinx
+numpydoc
