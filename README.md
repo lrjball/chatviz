@@ -3,6 +3,9 @@
 ![Version: alpha](https://img.shields.io/badge/version-alpha-blue)
 [![Requirements Status](https://requires.io/github/lrjball/chatviz/requirements.svg?branch=master)](https://requires.io/github/lrjball/chatviz/requirements/?branch=master)
 [![Codeship Status for lrjball/chatviz](https://app.codeship.com/projects/6cc088d0-ce0a-0138-899a-226c0c0d9cee/status?branch=master)](https://app.codeship.com/projects/407691)
+[![codecov](https://codecov.io/gh/lrjball/chatviz/branch/master/graph/badge.svg)](https://codecov.io/gh/lrjball/chatviz)
+
+
 
 A python library to visualize chats from various platforms.
 
