@@ -1,7 +1,6 @@
 # Chatviz
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 ![Version: alpha](https://img.shields.io/badge/version-alpha-blue)
-[![Requirements Status](https://requires.io/github/lrjball/chatviz/requirements.svg?branch=master)](https://requires.io/github/lrjball/chatviz/requirements/?branch=master)
 [![codecov](https://codecov.io/gh/lrjball/chatviz/branch/master/graph/badge.svg)](https://codecov.io/gh/lrjball/chatviz)
 [![Documentation Status](https://readthedocs.org/projects/chatviz/badge/?version=latest)](https://chatviz.readthedocs.io/en/latest/?badge=latest)
 
